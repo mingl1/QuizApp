@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="question_text">Java is nice</string>
+    <string name="question_one">true or false</string>
+    <string name="question_two">true or true</string>
+    <string name="question_three">false or false</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+    <string name="title_activity_cheat">CompSci Quiz</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+</resources>
